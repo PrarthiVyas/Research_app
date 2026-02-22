@@ -1,0 +1,9 @@
+crewai[azure-ai-inference]
+crewai-tools
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+litellm
+pypdf
+flask
